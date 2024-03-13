@@ -1,4 +1,6 @@
 from argparse import ArgumentParser
+import sys
+sys.path.append('/Users/mykhailokilianovskyi/github-classroom/minitorch/minitorch-module-0-mishakeyvalue')
 
 import streamlit as st
 from interface.streamlit_utils import get_img_tag
